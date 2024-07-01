@@ -17,8 +17,8 @@ function calculateDaysBetweenTwoDates(date1, date2) {
 }
 
 3. 功能介紹
-- `@workspace/vscode/terminal`
-- `/fix, explain, tests, new, newNotebook`
+@workspace/vscode/terminal
+/fix, explain, tests, new, newNotebook
 
 4. 解釋 Copilot 的幻覺 (hallucination)
 來源不一定是對的，若有疑問需要多加查證。Copilot Chat 有可能他的解釋不一定是對的，例如透過生成 Dockerfile，可能會生成版本錯誤之類的 Dockerfile。
