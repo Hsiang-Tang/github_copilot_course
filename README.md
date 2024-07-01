@@ -6,6 +6,7 @@
 ## 2. 程式碼錯誤修正和解釋
 建立 function `calculateDaysBetweenTwoDates` 並透過 camelcase 去解釋錯誤：
 
+```javascript
 function calculateDaysBetweenTwoDates(date1, date2) {
     // Get 1 day in milliseconds
     var one_day = 1000 * 60 * 60 * 24;
